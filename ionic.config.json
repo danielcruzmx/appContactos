@@ -1,6 +1,6 @@
 {
   "name": "appContactos",
-  "app_id": "",
+  "app_id": "cc1ae130",
   "type": "ionic-angular",
   "integrations": {
     "cordova": {}
